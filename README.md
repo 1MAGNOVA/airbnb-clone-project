@@ -14,6 +14,13 @@ Django- written in python, is a backend web framework that helps build web appli
 PostgreSQL- is used as a database to store details of users of the application, 
 GraphQL - is a query language that gives API clients their exact query return, it fetches data from multiple sources
 
+**Database Design**
+Users- a user can have more than one property,
+Properties- are listed for bookings, and users are shown available properties depending on their specific wants and location , 
+Bookings- bookings consist of properties in different locations and specifications based on user's wants, 
+Reviews - users can express their experiences on certain bookings and properties, 
+Payments - Users can make payments on listings/ properties
+
 
 
 
