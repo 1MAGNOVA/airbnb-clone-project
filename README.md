@@ -21,6 +21,26 @@ Bookings- bookings consist of properties in different locations and specificatio
 Reviews - users can express their experiences on certain bookings and properties, 
 Payments - Users can make payments on listings/ properties
 
+**Feature Breakdown**
+User Management 
+- this helps to manage the app users, using CRUD methods,
+this also helps identify users and their bookings and properties
+
+Property Management 
+- this helps manage properties,location of propertes ,
+- helps with property pricing and bookings
+  
+Bookings Management 
+- this helps manage properties that are listed and checks through available properties
+- helps show specifications and service offerings
+
+Reviews entry 
+- this shows user recommendation of a property or properties
+- this helps add user experience on a property
+  
+Payments 
+- this helps users make payments
+- this also helps resolve payment problems and refunds where possible
 
 
 
