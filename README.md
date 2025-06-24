@@ -60,3 +60,7 @@ authentication - Preventing user impersonation
 authorization - Provisioning action when app is granted permission to carry out transaction
 Rate Limiting - Preventing excessive use of app resources and limiting 
 
+
+**CI/CD Pipeline**
+these are automated processes of building, testing and deploying the project.
+tools include - Docker, Jenkins, Terraform, Openshift, Azure
