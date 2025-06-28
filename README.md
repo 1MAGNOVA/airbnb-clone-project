@@ -4,7 +4,7 @@ This is project is a comprehensive, real-world application designed to simulate 
 
 
 
-**Team Roles** 
+##Team Roles## 
 UI/UX designer- Transforms a product vision into user-friendly designs 
 Software architect- Designs a high-level software architecture 
 Software developer - Engineers and stabilizes the product
@@ -14,7 +14,7 @@ DevOps engineer - Facilitates cooperation between development and operations tea
 
 
 
-**Technology Stack**
+##Technology Stack##
 Django- written in python, is a backend web framework that helps build web applications securely, efficiently and allows developers to focus on functionality ,
 PostgreSQL- is used as a database to store details of users of the application, 
 GraphQL - is a query language that gives API clients their exact query return, it fetches data from multiple sources
@@ -22,7 +22,7 @@ GraphQL - is a query language that gives API clients their exact query return, i
 
 
 
-**Database Design**
+##Database Design##
 Users- a user can have more than one property,
 Properties- are listed for bookings, and users are shown available properties depending on their specific wants and location , 
 Bookings- bookings consist of properties in different locations and specifications based on user's wants, 
@@ -31,7 +31,7 @@ Payments - Users can make payments on listings/ properties
 
 
 
-**Feature Breakdown**
+##Feature Breakdown##
 User Management 
 - this helps to manage the app users, using CRUD methods,
 this also helps identify users and their bookings and properties
